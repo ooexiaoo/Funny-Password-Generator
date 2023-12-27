@@ -34,3 +34,5 @@ h1 {
 @media screen and (max-width: 768px) {
   body {
     font-size: 25px; /* Increase the font size for smaller screens */
+  }
+}
